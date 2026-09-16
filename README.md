@@ -16,7 +16,7 @@
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
-Currently deepening my studies in **Python**, **HTML**, **CSS**, **JavaScript**, and **Java**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
+Currently deepening my studies in **Python**, **HTML**, **CSS**, **JavaScript** and **Java**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
 
 I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, **Java** and **Git**.
 
