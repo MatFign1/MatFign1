@@ -61,7 +61,7 @@ I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=8B0000&center=true&vCenter=true&width=600&lines=Uchiha+Itachi;Eu+te+amo,+Irmão.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=8B0000&center=true&vCenter=true&width=600&lines=Uchiha+Itachi;i+love+you,+Brother.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
 </div>
 
 ---
